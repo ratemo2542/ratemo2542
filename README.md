@@ -21,14 +21,28 @@ I build practical software projects, explore automation, and develop my skills t
 
 ## Tech & Tools
 
-**Languages and technologies I've worked with**
+<div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+**Currently exploring, building, and improving with**
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=900&color=61DAFB&center=true&vCenter=true&width=650&lines=Building+interfaces+with+React+%E2%9A%9B%EF%B8%8F;Learning+React+components+and+hooks;Creating+with+Python+%26+C%2B%2B;Connecting+projects+with+Supabase;Improving+my+workflow+with+Git+%26+GitHub" alt="Animated technology focus" />
+</a>
+
+<br/>
+
+<marquee behavior="alternate" direction="left" scrollamount="4">
+  <img src="https://skillicons.dev/icons?i=react,python,cpp,js,supabase,git,github,vscode&theme=dark" alt="Technology icons" />
+</marquee>
+
+<br/>
+
+![React](https://img.shields.io/badge/React-Exploring-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-Building-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Practicing-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
 
 ## Featured Projects
 
