@@ -38,6 +38,8 @@ I build practical software projects, explore automation, and develop my skills t
 <br/>
 
 <img src="https://raw.githubusercontent.com/ratemo2542/ratemo2542/main/assets/react-spin.svg" alt="Spinning React badge" width="150" height="40" />
+<img src="https://raw.githubusercontent.com/ratemo2542/ratemo2542/main/assets/vscode-trail.svg" alt="VS Code badge with animated motion trail" width="190" height="44" />
+
 ![Python](https://img.shields.io/badge/Python-Building-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-Learning-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-Practicing-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
