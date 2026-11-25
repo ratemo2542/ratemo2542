@@ -32,7 +32,7 @@ I build practical software projects, explore automation, and develop my skills t
 <br/>
 
 <marquee behavior="alternate" direction="left" scrollamount="4">
-  <img src="https://skillicons.dev/icons?i=react,python,cpp,js,supabase,git,github,vscode&theme=dark" alt="Technology icons" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,supabase,git,github&theme=dark" alt="Technology icons" />
 </marquee>
 
 <br/>
